@@ -1,0 +1,41 @@
+        <!-- <div id="stories" class="container">
+        <div id="posts" class="story">
+            <div class="card text-center">
+                <img class="card-img-top" src="https://placeimg.com/640/270/nature/sepia" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Story title</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Tell me more</a>
+                </div>
+                <div class="card-footer text-muted">
+                    June 24, 2018
+                </div>
+            </div>
+        </div>
+        <div id="posts" class="container story">
+            <div class="card text-center">
+                <img class="card-img-top" src="https://placeimg.com/640/270/nature/sepia" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Story title</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Tell me more</a>
+                </div>
+                <div class="card-footer text-muted">
+                    June 24, 2018
+                </div>
+            </div>
+        </div>
+        <div id="posts" class="container story">
+            <div class="card text-center">
+                <img class="card-img-top" src="https://placeimg.com/640/270/nature/sepia" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Story title</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Tell me more</a>
+                </div>
+                <div class="card-footer text-muted">
+                    June 24, 2018
+                </div>
+            </div>
+        </div>
+    </div> -->
